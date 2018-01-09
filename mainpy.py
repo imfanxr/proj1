@@ -40,4 +40,3 @@ print(cnt)
 for x in sorted(cnt.keys()):
     print('{0}: {1}'.format(x,cnt[x]))
 
-cnt={}
